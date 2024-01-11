@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    margin: 40px; 
+    width:2000px;
+}
+
+.post{
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    margin: auto;
+    width: 25%;
+}
+
+.post-header{
+    display: flex;
+    padding: 10px;
+}
+
+.header-text {
+    margin-left: 8px;
+}
+
+.icon-header {
+    padding-top: 10px;
+    margin-left: 75%;
+}
+
+.s {
+    margin-top: 10px;
+}
+
+img {
+    width: 100%; 
+}
+
+.post-icons, .post-body {
+    padding: 10px;
+}
+
+.bookmark {
+    float: right;   
+}
